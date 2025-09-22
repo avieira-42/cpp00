@@ -6,8 +6,8 @@
 #    By: a-soeiro <avieira-@student.42porto.com>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/09/21 13:40:43 by a-soeiro          #+#    #+#              #
-#    Updated: 2025/09/21 13:45:35 by a-soeiro         ###   ########.fr        #
+#    Updated: 2025/09/22 23:45:27 by avieira-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-CPPFLAGS= c++ -Wall -Wextra -Werror
+CPPFLAGS= c++ --std=99 -Wall -Wextra -Werror
